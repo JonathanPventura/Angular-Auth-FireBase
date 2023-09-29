@@ -9,5 +9,6 @@
   - [ ]  Logoff 
   - [ ]  Proteção de rotas
   - [ ]  Autenticação com o google
+  - [x]  Hosting Firebase
 
 
